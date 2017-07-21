@@ -1,1 +1,1 @@
-
+web: ./script.sh
