@@ -1,1 +1,1 @@
-web: .bin/compile.sh
+web: .bin/compile
